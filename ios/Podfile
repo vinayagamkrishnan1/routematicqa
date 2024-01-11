@@ -25,6 +25,8 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
+pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+
 target 'routematicqa' do
   config = use_native_modules!
 
