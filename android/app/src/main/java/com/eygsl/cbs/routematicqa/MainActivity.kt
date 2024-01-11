@@ -1,4 +1,4 @@
-package com.routematicqa
+package com.eygsl.cbs.routematicqa
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

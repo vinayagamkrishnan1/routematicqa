@@ -1,4 +1,4 @@
-package com.routematicqa
+package com.eygsl.cbs.routematicqa
 
 import android.app.Application
 import com.facebook.react.PackageList
